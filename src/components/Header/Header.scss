@@ -1,0 +1,23 @@
+
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    img{
+        margin-bottom: 50px;
+    }
+    button{
+        background: none;
+        border: none;
+    }
+}
+.header{
+background: #E9EBEC;
+
+}
+.header2{
+    background: #0C151D;
+
+
+}
